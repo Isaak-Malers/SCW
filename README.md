@@ -1,5 +1,8 @@
 # Shaft Collar Weapon STL's
 
+![Exploded View](./Readme-photo.png)
+
+
 # Parts Required for Included design:
 * 40mm length M3 countersunk bolts
 * M3 Nylock nuts
