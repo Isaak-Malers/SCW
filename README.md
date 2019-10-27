@@ -1,4 +1,4 @@
-# Shaft Collar Weapon STL's
+# Shaft Collar Weapon:
 
 ![Exploded View](./Readme-photo.png)
 
