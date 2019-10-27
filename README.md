@@ -19,6 +19,7 @@
 # Design Recomendations:
 * The 2 inch shaft collar + hub weighs just shy of 20oz.
 * The 1.875 shaft collar + hub weighs just shy of 17oz.
+* I typically buy collars in 4 packs on ebay.  The 2 inch collar is a very common size and my per-unit cost is typically around 4$
 * The motor I reccomend with the included pulley STL's is capable of starting from stall with the robot sitting with 100% of its weight on the weapon (at 4s, 30a esc)
 * I reccomend spinning the weapon around 2,500-7,000 rpm, Faster speeds typically throw O-rings, and because the mass/moment of the weapon is so optimized, it really doesn't need crazy RPM's to do damage.
 * Note that the hub includes 2 pulleys for 2 O-rings.  For higher tip speeds, I've used dual 2212 1400kv motors to increase the power to the weapon.
