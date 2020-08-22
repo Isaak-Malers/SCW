@@ -2,6 +2,7 @@
 
 ![Exploded View](./Readme-photo.png)
 
+Video of weapon in action:  https://www.youtube.com/watch?v=2M8aIPILqEA
 
 # Parts Required for Included design:
 * 3d printed hubs in the requisite size
